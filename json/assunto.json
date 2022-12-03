@@ -1,0 +1,38 @@
+[
+    {
+        "_id": {
+            "$oid": "638aae29f45e60fed8badd2d"
+        },
+        "Palestra": "AI",
+        "Palestrante": {
+            "nome": "Ana Paula",
+            "especialidade": "Ai"
+        },
+        "usuarios": [
+            {
+                "Idade": 30,
+                "sexo": "F",
+                "telefone": 3599999,
+                "nome": "Rosangela"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "638aafe594ffcba80e9d7556"
+        },
+        "Palestra": "AI",
+        "Palestrante": {
+            "nome": "Giovane",
+            "especialidade": "cg"
+        },
+        "usuarios": [
+            {
+                "Idade": 30,
+                "sexo": "F",
+                "telefone": 35999999,
+                "nome": "Rosangela"
+            }
+        ]
+    }
+]
